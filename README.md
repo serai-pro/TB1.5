@@ -4,7 +4,7 @@ Ofcourse it can think by himself too, the Google/Bing is in-built feature used o
 
 example:
 
-```https://serai.pro/api/1.5/api?key=DEMO&type=1/0&msg=test```
+```https://serai.pro/thunderbird?key=DEMO&type=1/0&msg=test```
 
 # Let's show the types and everything.
 
@@ -23,7 +23,7 @@ Play: A music name
 It will play on the website the music, when you tell him to pause/stop it will stop it, for pause it will stop it for a amount or time or till you start it again.
 
 msg=Your_Message => this is used for the output, like when you fetch a message it gotta have a $input_text like this:
-```https://serai.pro/api/1.5/api?key=DEMO&msg=hi```
+```https://serai.pro/thunderbird?key=DEMO&msg=hi```
 it will output this: What's up? how are you doing today?
 
 # How serai.pro works
