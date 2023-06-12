@@ -4,7 +4,7 @@ Ofcourse it can think by himself too, the Google/Bing is in-built feature used o
 
 example:
 
-```https://serai.pro/api/1.5/api?key=YOUR_KEY&type=1/0&msg=test```
+```https://serai.pro/api/1.5/api?key=DEMO&type=1/0&msg=test```
 
 # Let's show the types and everything.
 
